@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM yashwild/nukeli:latest
 
 WORKDIR /app
 RUN chmod 777 /app
